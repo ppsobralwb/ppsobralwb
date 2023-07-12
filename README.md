@@ -17,5 +17,6 @@
 ## Contacts ☎
 
 [![Linkedin Badge](https://img.shields.io/badge/ppsobral-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ppsobral/)](https://www.linkedin.com/in/ppsobral/) 
+<br>
 [![Gmail Badge](https://img.shields.io/badge/-ppsobralwb@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppsobralwb@gmail.com)](mailto:ppsobralwb@gmail.com)
 
